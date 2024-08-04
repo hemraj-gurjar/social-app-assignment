@@ -60,7 +60,7 @@ This project is a social networking application built with Django and Django Res
 
 ## API Endpoints
 
-You can find the Postman collection for the API endpoints [here](postman_collection.json).
+You can find the Postman collection for the API endpoints [here](netwok-app.postman_collection.json).
 
 ### Endpoints
 
